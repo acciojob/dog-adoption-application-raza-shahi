@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+form{
+	text-align:center;
+	border:2px solid #000;
+	padding:20px;
+}
+input{
+	border:2px solid grey;
+	padding:5px;
+	margin: 4px 0px;
+}
